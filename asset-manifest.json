@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/keplerjs---project/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/keplerjs---project/static/js/main.c53aec96.chunk.js",
+    "main.js.map": "/keplerjs---project/static/js/main.c53aec96.chunk.js.map",
+    "runtime-main.js": "/keplerjs---project/static/js/runtime-main.2cfe0749.js",
+    "runtime-main.js.map": "/keplerjs---project/static/js/runtime-main.2cfe0749.js.map",
+    "static/js/2.3c1b000e.chunk.js": "/keplerjs---project/static/js/2.3c1b000e.chunk.js",
+    "static/js/2.3c1b000e.chunk.js.map": "/keplerjs---project/static/js/2.3c1b000e.chunk.js.map",
+    "index.html": "/keplerjs---project/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/keplerjs---project/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3c1b000e.chunk.js.LICENSE.txt": "/keplerjs---project/static/js/2.3c1b000e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cfe0749.js",
+    "static/js/2.3c1b000e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c53aec96.chunk.js"
+  ]
+}
